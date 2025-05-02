@@ -32,14 +32,17 @@
 
 ## 💼 Projects
 
-### 🔐 Aptitude Test System (Feb 2025)
+### 💸 Smart Expense Manager (Jan 2025 - Apr 2025)  
+  AI-integrated expense tracker with Telegram bot, auto-budgeting, Razorpay integration, and real-time sync. *(MERN Stack)*
+
+### 🔐 Aptitude Test System (Nov 2024 - Dec 2024)
 A full-featured MERN-based online exam platform with user authentication, session-based results, resume uploads, and leaderboard.
+
+### 🎯 Training & Placement Portal (Mar 2024 –May 2024)
+A full-stack job portal with admin and student dashboards, real-time job postings, resume uploads, and company engagement.
 
 ### 🧩 Jumble Coding Game (Feb 2024)
 An interactive drag-and-drop coding puzzle game developed for a college fest to enhance logical thinking and syntax understanding.
-
-### 🎯 Training & Placement Portal (Mar–May 2024)
-A full-stack job portal with admin and student dashboards, real-time job postings, resume uploads, and company engagement.
 
 ---
 
