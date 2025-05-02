@@ -1,41 +1,55 @@
-# 👋 Hi, I'm Aditya Barve
+<h1 align="center">Hi 👋, I'm Aditya Barve</h1>
+<h3 align="center">Aspiring Fullstack Developer | Computer Engineering Student | Tech Enthusiast</h3>
 
-🎓 A passionate Computer Engineering student at P.E.S Modern College of Engineering, Pune (2022–2026), eager to contribute to real-world software projects and continuously grow as a full-stack developer.
+<p align="center">
+  🌐 Transforming Ideas into Scalable Web Solutions <br />
+  💼 Open to Internships & Opportunities | Passionate about MERN Stack
+</p>
 
 ---
 
-## 🔧 Skills
+## 🚀 About Me
 
-**Languages:** C++, Java, JavaScript  
-**Frontend:** HTML, CSS, JavaScript, React, TailwindCSS  
-**Backend:** Node.js, Express.js  
-**Database:** MySQL, MongoDB  
-**Tools & Platforms:** VS Code, GitHub, Git, Postman, PyCharm, MongoDB Compass  
-**Core Subjects:** Data Structures & Algorithms (DSA), Web Development  
-**Soft Skills:** Leadership, Teamwork, Problem Solving, Time Management
+🎓 I'm a Computer Engineering student at P.E.S Modern College of Engineering, Pune (Batch of 2026).  
+💻 I specialize in building full-stack web applications using the MERN stack.  
+🌟 I aim to bring real-world impact through clean code, efficient systems, and user-friendly interfaces.  
+🚀 Dream Companies: **Google**, **Microsoft**, **Amazon**, **Adobe**, **Infosys**, **TCS Digital**, **Zomentum**  
+
+> I love solving problems with code and believe in continuous learning. Whether it’s a hackathon, a college project, or freelance work — I’m always up for a challenge.
+
+---
+
+## 🛠 Tech Stack
+
+- **Languages:** `C++` `Java` `JavaScript`  
+- **Frontend:** `HTML` `CSS` `React.js` `TailwindCSS`  
+- **Backend:** `Node.js` `Express.js`  
+- **Database:** `MySQL` `MongoDB`  
+- **Tools & Platforms:** `VS Code` `GitHub` `Git` `Postman` `MongoDB Compass` `PyCharm`  
+- **CS Topics:** `Data Structures & Algorithms` `Web Development`  
 
 ---
 
 ## 💼 Projects
 
-### 🧠 Aptitude Test System (Feb 2025)
-An online MERN-based test system with features like authentication, MCQ shuffling, auto-submit, resume uploads, and Excel export of results.
+### 🔐 Aptitude Test System (Feb 2025)
+A full-featured MERN-based online exam platform with user authentication, session-based results, resume uploads, and leaderboard.
 
 ### 🧩 Jumble Coding Game (Feb 2024)
-Interactive web app where users arrange jumbled lines of code using drag-and-drop. Built for a college fest using React.js and MongoDB.
+An interactive drag-and-drop coding puzzle game developed for a college fest to enhance logical thinking and syntax understanding.
 
 ### 🎯 Training & Placement Portal (Mar–May 2024)
-Full-stack portal integrating real-time job postings and employer-student engagement. Tech stack: React, Node, Express, MongoDB.
+A full-stack job portal with admin and student dashboards, real-time job postings, resume uploads, and company engagement.
 
 ---
 
-## 🏅 Certifications
+## 📜 Certifications
 
-- **NPTEL ELITE** – Programming in Java  
-- Java – **IIT Bombay**  
-- Fullstack Web Development  
-- C, C++, and DSA  
-- **Postman API Fundamentals Student Expert**
+- 🏆 NPTEL ELITE – Programming in Java  
+- 🧾 Java Programming – IIT Bombay  
+- 💡 Fullstack Web Development  
+- 💻 C, C++ and DSA  
+- 🔍 Postman API Fundamentals Student Expert  
 
 ---
 
@@ -43,11 +57,11 @@ Full-stack portal integrating real-time job postings and employer-student engage
 
 📫 Email: [adityabarve8767@gmail.com](mailto:adityabarve8767@gmail.com)  
 🌍 Location: Pune, Maharashtra  
-🔗 LinkedIn & Portfolio coming soon!
-
-> "The best way to predict the future is to invent it." – Alan Kay
+🔗 [LinkedIn](https://www.linkedin.com/in/aditya-barve-6b52541a9/)  
+🌐 [Portfolio Website](https://adityabarve.vercel.app)
 
 ---
 
-![Aditya's GitHub Stats](https://github-readme-stats.vercel.app/api?username=adityabarve&show_icons=true&theme=tokyonight)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=adityabarve&layout=compact&theme=tokyonight)
+
+
+> "Success is the sum of small efforts, repeated day in and day out." – Robert Collier
