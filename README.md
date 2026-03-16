@@ -3,7 +3,7 @@
 
 <p align="center">
   🌐 Transforming Ideas into Scalable Web Solutions <br />
-  💼 Open to Internships & Opportunities | Passionate about MERN Stack
+  💼 Open For Best Opportunities | Passionate about MERN Stack
 </p>
 
 ---
